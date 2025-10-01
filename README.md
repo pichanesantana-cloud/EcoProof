@@ -75,7 +75,7 @@ Tokens de impacto, créditos de carbono, integração com empresas ESG.
 
 ## 📬 Contato
 Caso queira apoiar ou colaborar:  
-- **Founder:** Renato  
+- **Founder:**  
 - **GitHub:** 
 - **Comunidade Sui Bootcamp Brasil**  
 
